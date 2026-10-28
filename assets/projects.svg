@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 454" width="860" height="454" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif">
+<g transform="translate(0,0)">
+<rect width="420" height="138" rx="20" fill="#ffffff" stroke="#f0d6e3"/>
+<rect width="420" height="138" rx="20" fill="#fb7185" opacity=".10"/>
+<rect x="0" y="22" width="6" height="94" rx="3" fill="#fb7185"/>
+<text x="28" y="40" font-size="19" font-weight="800" fill="#2a1f2d">FishCare</text>
+<text x="28" y="68" font-size="14" fill="#6f6272">Monitoring akuarium: suhu, level air, TDS,</text>
+<text x="28" y="88" font-size="14" fill="#6f6272">dan grafik real-time.</text>
+<rect x="28" y="104" width="161" height="22" rx="11" fill="#fb7185" opacity=".28"/>
+<text x="108.5" y="119" font-size="12" font-weight="700" fill="#2a1f2d" text-anchor="middle">IoT · Web · Mobile</text>
+</g>
+<g transform="translate(440,0)">
+<rect width="420" height="138" rx="20" fill="#ffffff" stroke="#f0d6e3"/>
+<rect width="420" height="138" rx="20" fill="#ffa94d" opacity=".10"/>
+<rect x="0" y="22" width="6" height="94" rx="3" fill="#ffa94d"/>
+<text x="28" y="40" font-size="19" font-weight="800" fill="#2a1f2d">Barang Masuk &amp; Keluar</text>
+<text x="28" y="68" font-size="14" fill="#6f6272">Pencatatan stok dan riwayat barang</text>
+<text x="28" y="88" font-size="14" fill="#6f6272">untuk Pertamina.</text>
+<rect x="28" y="104" width="50" height="22" rx="11" fill="#ffa94d" opacity=".28"/>
+<text x="53.0" y="119" font-size="12" font-weight="700" fill="#2a1f2d" text-anchor="middle">Web</text>
+</g>
+<g transform="translate(0,158)">
+<rect width="420" height="138" rx="20" fill="#ffffff" stroke="#f0d6e3"/>
+<rect width="420" height="138" rx="20" fill="#f472b6" opacity=".10"/>
+<rect x="0" y="22" width="6" height="94" rx="3" fill="#f472b6"/>
+<text x="28" y="40" font-size="19" font-weight="800" fill="#2a1f2d">Pemesanan Catering</text>
+<text x="28" y="68" font-size="14" fill="#6f6272">Pelanggan memilih paket dan memesan,</text>
+<text x="28" y="88" font-size="14" fill="#6f6272">pemilik usaha mengelola pesanan.</text>
+<rect x="28" y="104" width="50" height="22" rx="11" fill="#f472b6" opacity=".28"/>
+<text x="53.0" y="119" font-size="12" font-weight="700" fill="#2a1f2d" text-anchor="middle">Web</text>
+</g>
+<g transform="translate(440,158)">
+<rect width="420" height="138" rx="20" fill="#ffffff" stroke="#f0d6e3"/>
+<rect width="420" height="138" rx="20" fill="#60a5fa" opacity=".10"/>
+<rect x="0" y="22" width="6" height="94" rx="3" fill="#60a5fa"/>
+<text x="28" y="40" font-size="19" font-weight="800" fill="#2a1f2d">Eskrim Happy</text>
+<text x="28" y="68" font-size="14" fill="#6f6272">Katalog menu, pencarian, keranjang,</text>
+<text x="28" y="88" font-size="14" fill="#6f6272">dan pembayaran.</text>
+<rect x="28" y="104" width="94" height="22" rx="11" fill="#60a5fa" opacity=".28"/>
+<text x="75.0" y="119" font-size="12" font-weight="700" fill="#2a1f2d" text-anchor="middle">PHP · Web</text>
+</g>
+<g transform="translate(0,316)">
+<rect width="420" height="138" rx="20" fill="#ffffff" stroke="#f0d6e3"/>
+<rect width="420" height="138" rx="20" fill="#34d399" opacity=".10"/>
+<rect x="0" y="22" width="6" height="94" rx="3" fill="#34d399"/>
+<text x="28" y="40" font-size="19" font-weight="800" fill="#2a1f2d">Pengingat Service Motor</text>
+<text x="28" y="68" font-size="14" fill="#6f6272">Jadwal service, riwayat, dan status</text>
+<text x="28" y="88" font-size="14" fill="#6f6272">akan datang atau selesai.</text>
+<rect x="28" y="104" width="72" height="22" rx="11" fill="#34d399" opacity=".28"/>
+<text x="64.0" y="119" font-size="12" font-weight="700" fill="#2a1f2d" text-anchor="middle">Mobile</text>
+</g>
+<g transform="translate(440,316)">
+<rect width="420" height="138" rx="20" fill="#ffffff" stroke="#f0d6e3"/>
+<rect width="420" height="138" rx="20" fill="#a78bfa" opacity=".10"/>
+<rect x="0" y="22" width="6" height="94" rx="3" fill="#a78bfa"/>
+<text x="28" y="40" font-size="19" font-weight="800" fill="#2a1f2d">Aplikasi Event</text>
+<text x="28" y="68" font-size="14" fill="#6f6272">Melihat event terbaru dan mendaftar</text>
+<text x="28" y="88" font-size="14" fill="#6f6272">langsung dari ponsel.</text>
+<rect x="28" y="104" width="72" height="22" rx="11" fill="#a78bfa" opacity=".28"/>
+<text x="64.0" y="119" font-size="12" font-weight="700" fill="#2a1f2d" text-anchor="middle">Mobile</text>
+</g>
+</svg>
